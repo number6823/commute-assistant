@@ -1,0 +1,11 @@
+{
+  "name": "commute-assistant",
+  "description": "실시간 이동비서 — 평일 18시에 로봇 알림창으로 퇴근 여부를 묻고, 교통 MCP(PlayMCP)로 가장 빠른 지하철·버스를 알려준다.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "number6823"
+  },
+  "repository": "https://github.com/number6823/commute-assistant",
+  "keywords": ["commute", "transit", "mcp", "hook", "windows"]
+}

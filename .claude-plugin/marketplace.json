@@ -1,0 +1,17 @@
+{
+  "name": "commute-assistant-market",
+  "owner": {
+    "name": "number6823"
+  },
+  "metadata": {
+    "description": "퇴근길 실시간 이동비서 플러그인"
+  },
+  "plugins": [
+    {
+      "name": "commute-assistant",
+      "source": "./",
+      "description": "평일 18시 알림창으로 퇴근 여부를 묻고 가장 빠른 지하철·버스를 알려준다.",
+      "version": "0.1.0"
+    }
+  ]
+}

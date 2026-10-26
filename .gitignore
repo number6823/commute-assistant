@@ -1,0 +1,12 @@
+# 개인 설정 (집 주소 등) — 실제 값은 ~/.claude/commute/ 에만 둔다
+config.json
+.env
+*.log
+
+# 모델 가중치 / 벡터 DB
+*.pt
+chroma/
+*.faiss
+
+# 이 폴더에서 쓰는 개인 Claude Code 설정 (플러그인에는 필요 없음)
+.claude/
